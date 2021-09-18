@@ -4,6 +4,10 @@
   "description": "A Vue.js project",
   "author": "Saabbir Hossain <thesaabbir@gmail.com>",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saabbir/geo-ninjas.git"
+  },  
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
